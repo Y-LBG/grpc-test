@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "grpctest-rust-server"
+		},
+		{
+			"path": "grpctest-proto"
+		},
+		{
+			"path": "grpctest-rust-client"
+		},
+		{
+			"path": "grpctest-c#-client"
+		}
+	],
+	"settings": {}
+}
